@@ -1,0 +1,14 @@
+{
+  "name": "vue-render-on-scroll",
+  "version": "1.0.0",
+  "description": "A Vue component that allows you to lazy-load components as they appear on screen. Great for passing google speed tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazarov Petr",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
